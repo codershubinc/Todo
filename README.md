@@ -1,4 +1,4 @@
-# Todo App v0.1
+# Todo App 
 
 ## Overview
 
@@ -18,7 +18,7 @@ This is a simple Todo application built with Next.js and Clerk for authenticatio
    ```
 2. Navigate to the project directory:
    ```bash
-   cd todo-v0.1
+   cd Todo
    ```
 3. Install the dependencies:
    ```bash
