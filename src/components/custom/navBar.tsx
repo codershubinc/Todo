@@ -11,7 +11,7 @@ export default function NavBar() {
     const { isSignedIn } = useAuth();
 
     return (
-        <nav className="bg-gray-900 text-white p-4 shadow-lg">
+        <nav className="bg-gray-900 text-white p-4 shadow-lg sticky top-0 z-50">
             <div className="container mx-auto flex justify-between items-center">
                 <Link href="/">
                     <span className="text-2xl font-bold cursor-pointer">MyBrand</span>
