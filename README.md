@@ -1,14 +1,14 @@
-# Todo App 
+# Your Book Web
 
 ## Overview
 
-This is a simple Todo application built with Next.js and Clerk for authentication. The app allows users to sign in and manage their tasks efficiently.
+This is a simple Todo application built with Next.js and appwrite .
+This app is best storage solution for cloud storage and database.
 
 ## Features
 
-- User authentication with Clerk
-- Add, edit, and delete tasks
-- Responsive design
+- User authentication
+- User can upload any type of data .
 
 ## Installation
 
@@ -32,10 +32,6 @@ This is a simple Todo application built with Next.js and Clerk for authenticatio
    npm run dev
    ```
 2. Open your browser and navigate to `http://localhost:3000`.
-
-## File Structure
-
-- `/src/app/(user)/signin/[[...signin]]/page.tsx`: Sign-in page component using Clerk.
 
 ## Contributing
 
