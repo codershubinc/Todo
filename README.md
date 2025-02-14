@@ -14,11 +14,11 @@ This app is best storage solution for cloud storage and database.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-v0.1.git
+   git clone https://github.com/yourusername/YourBook.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Todo
+   cd YourBook
    ```
 3. Install the dependencies:
    ```bash
