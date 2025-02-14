@@ -14,7 +14,7 @@ This app is best storage solution for cloud storage and database.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YourBook.git
+   git clone https://github.com/codershubinc/YourBook.git
    ```
 2. Navigate to the project directory:
    ```bash
