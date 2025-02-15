@@ -45,8 +45,6 @@ export default function RootLayout({
             <main
               className="flex flex-col flex-1 overflow-hidden "
             >
-
-
               <NavBar />
               {children}
             </main>
